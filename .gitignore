@@ -12,4 +12,4 @@ main.xsim
 *.run.xml
 *.synctex.gz
 *.lof
-*.lot
+*.lot.DS_Store
